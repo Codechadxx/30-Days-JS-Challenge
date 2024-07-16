@@ -10,18 +10,21 @@ The repository is organized into directories for each day of the challenge. Each
 Problem Statement: A description of the problem or topic for the day.
 Solution: My code implementation for the problem.
 Notes: Any additional notes or insights gained while solving the problem.
+
 Tools and Environment
 Code Editor: Visual Studio Code
 Environment: GitHub Codespaces
+
 How to Use This Repository
 Clone the Repository: git clone https://github.com/your-username/30-days-of-js-challenge.git
 git clone https://github.com/your-username/30-Days-JS-Challenge.git
+
 Navigate to the Day's Directory:
-bash
-Copy code
 cd 30-days-of-js-challenge/Day_1
+
 Open in Codespaces:
 Open the repository in GitHub Codespaces to view and run the code.
+
 Contributing
 If you have suggestions or improvements, feel free to fork the repository and submit a pull request. All contributions are welcome!
 
