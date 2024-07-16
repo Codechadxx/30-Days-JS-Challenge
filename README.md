@@ -1,10 +1,13 @@
 30 Days of JavaScript Challenge
+
 Welcome to my 30 Days of JavaScript Challenge repository! This project is a part of my journey to improve my JavaScript skills by solving daily problems on specific topics.
 
 About the Challenge
+
 For 30 days, I will be tackling different JavaScript problems, each focusing on a particular topic. This challenge aims to enhance my understanding of JavaScript fundamentals, improve problem-solving skills, and get hands-on practice with various concepts.
 
 Repository Structure
+
 The repository is organized into directories for each day of the challenge. Each directory contains:
 
 Problem Statement: A description of the problem or topic for the day.
@@ -12,7 +15,9 @@ Solution: My code implementation for the problem.
 Notes: Any additional notes or insights gained while solving the problem.
 
 Tools and Environment
+
 Code Editor: Visual Studio Code
+
 Environment: GitHub Codespaces
 
 How to Use This Repository
